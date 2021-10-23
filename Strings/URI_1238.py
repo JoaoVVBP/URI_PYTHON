@@ -3,8 +3,6 @@
 # Best: Python	0.048	2/9/18, 4:36:36 PM
 range_value = int(input())
 
-range_value = int(input())
-
 for _ in range(range_value):
     output_string = ""
     input_string = input().split()
