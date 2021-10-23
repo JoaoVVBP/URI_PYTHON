@@ -1,3 +1,7 @@
+# LANGUAGE	TIME	DATE
+# Mine: Python 3	0.244	10/22/21, 11:07:58 PM
+# Best: Python	0.048	2/9/18, 4:36:36 PM
+
 range_value = int(input())
 
 for _ in range(range_value):
